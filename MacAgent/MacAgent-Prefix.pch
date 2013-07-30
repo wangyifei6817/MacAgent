@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MacAgent' target in the 'MacAgent' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
